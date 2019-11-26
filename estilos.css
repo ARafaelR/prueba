@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: sans-serif;
     background-color: #030c3d;
-    /*background-image: url("fondo_principal.png") ;*/
+    background-image: url("fondo_principal.png") ;
     background-repeat: no-repeat;
     overflow: hidden;
     background-size: 100%;
